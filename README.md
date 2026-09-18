@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/devdoingdev" target="blank"><img src="https://img.shields.io/twitter/follow/devdoingdev?logo=twitter&style=for-the-badge" alt="devdoingdev" /></a> </p>
 
-- 🔭 I’m currently working on [Chaturanga (Chess)](https://github.com/2232def/Chess.com)
-
 - 📫 How to reach me **gohi772004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
