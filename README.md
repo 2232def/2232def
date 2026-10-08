@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev</h1>
-<h3 align="center">A passionate Full Stack (Backend focused) developer from India</h3>
+<h3 align="center">Exploring Life, Tech, Currently learning Embedded Systems</h3>
 
 <p align="left"> <a href="https://twitter.com/devdoingdev" target="blank"><img src="https://img.shields.io/twitter/follow/devdoingdev?logo=twitter&style=for-the-badge" alt="devdoingdev" /></a> </p>
 
